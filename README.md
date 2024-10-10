@@ -1,4 +1,4 @@
-- # 👋 Hiiiiii, I’m Sameeksha Menda
+  # 👋 Hiiiiii, I’m Sameeksha Menda
 - 👀 I’m a Computer Science student with a focus on Data Science and a growing interest in Web Development.
 - 💻 I’m currently learning advanced techniques in web development and exploring machine learning concepts.
 
