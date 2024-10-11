@@ -8,6 +8,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SameekshaMenda&theme=dark)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SameekshaMenda&layout=compact&theme=dark)
+
 
 <!---
 SameekshaMenda/SameekshaMenda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
