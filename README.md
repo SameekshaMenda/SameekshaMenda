@@ -2,6 +2,8 @@
 - 👀 I’m a Computer Science student with a focus on Data Science and a growing interest in Web Development.
 - 💻 I’m currently learning advanced techniques in web development and exploring machine learning concepts.
 
+https://cdnl.iconscout.com/lottie/premium/preview-watermark/woman-coding-on-laptop-animation-download-in-lottie-json-gif-static-svg-file-formats--html-logo-web-programmer-website-development-pack-design-animations-8957688.mp4
+
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SameekshaMenda&show_icons=true&theme=radical)
