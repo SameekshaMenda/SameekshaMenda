@@ -3,6 +3,12 @@
 - 💻 I’m currently learning advanced techniques in web development and exploring machine learning concepts.
 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SameekshaMenda&show_icons=true&theme=radical)
 
