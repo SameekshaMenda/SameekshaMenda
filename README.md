@@ -4,6 +4,7 @@
 
 
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SameekshaMenda&show_icons=true&theme=radical)
 
 <!---
 SameekshaMenda/SameekshaMenda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
