@@ -8,7 +8,7 @@
 
 
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=SameekshaMenda.SameekshaMenda&v=1)
+![Visitor Count](https://img.shields.io/badge/visitor%20count-0-brightgreen)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SameekshaMenda&show_icons=true&theme=radical)
 
