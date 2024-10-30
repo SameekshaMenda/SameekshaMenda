@@ -8,7 +8,7 @@
 
 
 
-![Visitor Count](https://img.shields.io/badge/visitor%20count-0-brightgreen)
+![Visitor Count](https://img.shields.io/badge/visitor%20count-0-pink)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SameekshaMenda&show_icons=true&theme=radical)
 
