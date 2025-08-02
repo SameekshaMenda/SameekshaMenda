@@ -3,7 +3,11 @@
 - 💻 I’m currently learning advanced techniques in web development and exploring machine learning concepts.
 
 ---
+### 👋 Welcome to My GitHub!
 
+![Visitor Count](https://countapi.xyz/hit/sameeksha-visitor-counter/github-visits?style=flat&label=Visitors&value=0)
+
+---
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SameekshaMenda&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SameekshaMenda&theme=dark)
