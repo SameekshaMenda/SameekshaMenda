@@ -5,7 +5,7 @@
 ---
 ### 👋 Welcome to My GitHub!
 
-![Visitor Count](https://countapi.xyz/hit/sameeksha-visitor-counter/github-visits?style=flat&label=Visitors&value=0)
+![Profile views](https://komarev.com/ghpvc/?username=SameekshaMenda&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SameekshaMenda&show_icons=true&theme=radical)
