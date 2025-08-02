@@ -3,11 +3,11 @@
 - 💻 I’m currently learning advanced techniques in web development and exploring machine learning concepts.
 
 ---
-### 👋 Welcome to My GitHub!
 
-![Profile views](https://komarev.com/ghpvc/?username=SameekshaMenda&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SameekshaMenda&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor badge"/>
+</p>
 
----
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SameekshaMenda&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SameekshaMenda&theme=dark)
