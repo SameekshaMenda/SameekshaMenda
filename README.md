@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" height="50%" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="600" alt="Coding GIF"/>
 </div>
 
 <div align="center">
@@ -25,26 +25,39 @@
 
 ### 📊 My GitHub Stats
 
----
+### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SameekshaMenda&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=SameekshaMenda&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Visitor badge"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/SameekshaMenda">
-    <img src="https://github-readme-stats.vercel.app/api?username=SameekshaMenda&show_icons=true&theme=dracula" alt="Sameeksha's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/SameekshaMenda">
-    <img src="https://streak-stats.demolab.com/?user=SameekshaMenda&theme=tokyonight&hide_border=false" alt="Sameeksha's GitHub Streak"/>
-  </a>
-  <a href="https://github.com/SameekshaMenda">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameekshaMenda&layout=compact&theme=dracula" alt="Sameeksha's Top Languages"/>
-  </a>
-</p>
+<!-- This table centers and aligns the stats cards side-by-side -->
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/SameekshaMenda">
+        <img src="https://github-readme-stats.vercel.app/api?username=SameekshaMenda&show_icons=true&theme=dracula" alt="Sameeksha's GitHub Stats"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/SameekshaMenda">
+        <img src="https://streak-stats.demolab.com/?user=SameekshaMenda&theme=tokyonight" alt="Sameeksha's GitHub Streak"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/SameekshaMenda">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameekshaMenda&layout=compact&theme=dracula" alt="Sameeksha's Top Languages"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <div align="center">
-  <img src="https://github.com/SameekshaMenda/SameekshaMenda/raw/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
+  <img src="https://raw.githubusercontent.com/SameekshaMenda/SameekshaMenda/main/dist/github-contribution-grid-snake.svg" alt="contribution snake" />
 </div>
 ---
 ## 🚀 Skills
