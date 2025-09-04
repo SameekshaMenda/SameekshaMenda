@@ -1,6 +1,5 @@
 name: Generate Snake Animation
 
-# This new section is the fix!
 permissions:
   contents: write
 
@@ -18,12 +17,13 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: SameekshaMenda
-          # The output path here should match the one in your README
           outputs: dist/github-contribution-grid-snake.svg
-
-          color_snake: "#00FF00"  # A bright green color for the snake
-          color_dots: "#333333,#666666,#999999,#CCCCCC,#FFFFFF" # A gradient of dark to light grey for the dots
           
+          # === THIS IS THE FIX ===
+          # Use a dark background for the grid and a green snake
+          color_snake: "#00FF00"
+          color_dots: "#1B1F23,#0e4429,#006d32,#26a641,#39d353"
+
       - name: Push generated file
         run: |
           git config --global user.name 'github-actions[bot]'
