@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="600" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" height="300" alt="Coding GIF"/>
 </div>
 
 <div align="center">
@@ -22,8 +22,6 @@
 - 📫 How to reach me: **menda.sameekshaa@gmail.com** or on **[LinkedIn]((https://www.linkedin.com/in/sameeksha-menda-9a863426a/))**
 
 ---
-
-### 📊 My GitHub Stats
 
 ### 📊 My GitHub Stats
 
