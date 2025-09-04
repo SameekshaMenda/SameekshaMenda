@@ -20,7 +20,10 @@ jobs:
           github_user_name: SameekshaMenda
           # The output path here should match the one in your README
           outputs: dist/github-contribution-grid-snake.svg
-      
+
+          color_snake: "#BD93F9"  # Dracula purple
+          color_dots: "#282A36,#383A59,#44475A,#6272A4,#F8F8F2" # Dracula theme gradient
+          
       - name: Push generated file
         run: |
           git config --global user.name 'github-actions[bot]'
