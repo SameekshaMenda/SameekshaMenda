@@ -7,7 +7,7 @@
 # Hi 👋, I'm Sameeksha Menda
 
 <a href="https://github.com/SameekshaMenda">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=DA70D6&center=true&width=435&lines=Passionate+Frontend+Developer;Lifelong+Learner+%26+Tech+Enthusiast;Computer+Science+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=DA70D6&center=true&width=435&lines=Frontend+Developer;Tech+Enthusiast;Computer+Science+Student" alt="Typing SVG" />
 </a>
 
 </div>
