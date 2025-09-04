@@ -16,7 +16,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on enhancing my **Web Development* skills.
+- 🔭 I’m currently working on enhancing my **Web Development** skills.
 - 🌱 I’m currently learning **Advanced React concepts** and exploring **Backend Development**.
 - 👯 I’m looking to collaborate on **Open Source projects** related to Web Development.
 - 📫 How to reach me: **menda.sameekshaa@gmail.com** or on **[LinkedIn]((https://www.linkedin.com/in/sameeksha-menda-9a863426a/))**
