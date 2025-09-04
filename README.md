@@ -1,6 +1,29 @@
-# 👋 Hiiiiii, I’m Sameeksha Menda
-- 👀 I’m a Computer Science student with a focus on Data Science and a growing interest in Web Development.
-- 💻 I’m currently learning advanced techniques in web development and exploring machine learning concepts.
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" height="50%" alt="Coding GIF"/>
+</div>
+
+<div align="center">
+
+# Hi 👋, I'm Sameeksha Menda
+
+<a href="https://github.com/SameekshaMenda">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=DA70D6&center=true&width=435&lines=Passionate+Frontend+Developer;Lifelong+Learner+%26+Tech+Enthusiast;Computer+Science+Student" alt="Typing SVG" />
+</a>
+
+</div>
+
+---
+
+### 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on enhancing my **Web Development* skills.
+- 🌱 I’m currently learning **Advanced React concepts** and exploring **Backend Development**.
+- 👯 I’m looking to collaborate on **Open Source projects** related to Web Development.
+- 📫 How to reach me: **menda.sameekshaa@gmail.com** or on **[LinkedIn]((https://www.linkedin.com/in/sameeksha-menda-9a863426a/))**
+
+---
+
+### 📊 My GitHub Stats
 
 ---
 
@@ -8,12 +31,21 @@
   <img src="https://komarev.com/ghpvc/?username=SameekshaMenda&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor badge"/>
 </p>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SameekshaMenda&show_icons=true&theme=radical)
+<p align="center">
+  <a href="https://github.com/SameekshaMenda">
+    <img src="https://github-readme-stats.vercel.app/api?username=SameekshaMenda&show_icons=true&theme=dracula" alt="Sameeksha's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/SameekshaMenda">
+    <img src="https://streak-stats.demolab.com/?user=SameekshaMenda&theme=tokyonight&hide_border=false" alt="Sameeksha's GitHub Streak"/>
+  </a>
+  <a href="https://github.com/SameekshaMenda">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameekshaMenda&layout=compact&theme=dracula" alt="Sameeksha's Top Languages"/>
+  </a>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SameekshaMenda&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SameekshaMenda&layout=compact&theme=dark)
-
+<div align="center">
+  <img src="https://github.com/SameekshaMenda/SameekshaMenda/raw/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
+</div>
 ---
 ## 🚀 Skills
 <p align="center">
@@ -36,8 +68,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="50" height="50"/>
 </p>
 
-<!---
-SameekshaMenda/SameekshaMenda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 
---->
