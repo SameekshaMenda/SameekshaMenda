@@ -57,8 +57,10 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/SameekshaMenda/SameekshaMenda/main/dist/github-contribution-grid-snake.svg" alt="contribution snake" />
 </div>
+
 ---
-## 🚀 Skills
+
+### 🚀 Skills
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
